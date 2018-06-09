@@ -5,6 +5,8 @@ Created on Fri Jun 01 18:43:24 2018
 """
 
 #import numpy as np
+
+#Coloquei um comentário
 import cv2
 
 cap = cv2.VideoCapture(0)
