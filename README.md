@@ -13,5 +13,8 @@ capaz de operar o sistema de forma manual caso a situação demande, além de co
 luz em ambientes de pouca luminosidade e poder acessar o histórico de detecção de drone
 gerado durante a execução do algoritmo de visão computacional.
 
-## Palavras-chave
- Sistema autônomo; sistema em tempo real; aprendizado profundo;redes neurais artificiais; visão computacional; problema de classificação; segurança; drone; sistemas de vigilância; rastreamento por som.
+## Tópicos
+Sistema autônomo;Sistema em tempo real; Aprendizado profundo;Redes Neurais Artificiais; Visão Computacional; Problema de Classificação; Segurança; Drone; Sistemas de Vigilância; Rastreamento por Som; Interfe Gráfica para o Usuário (GUI)
+
+## Linguagens de programação
+Python e Linguagem C
