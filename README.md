@@ -14,4 +14,4 @@ luz em ambientes de pouca luminosidade e poder acessar o histórico de detecçã
 gerado durante a execução do algoritmo de visão computacional.
 
 ## Palavras-chave
-sistema autônomo; sistema em tempo real; aprendizado profundo;redes neurais artificiais; visão computacional; problema de classificação; segurança; drone; sistemas de vigilância; rastreamento por som.
+ Sistema autônomo; sistema em tempo real; aprendizado profundo;redes neurais artificiais; visão computacional; problema de classificação; segurança; drone; sistemas de vigilância; rastreamento por som.
