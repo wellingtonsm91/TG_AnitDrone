@@ -14,7 +14,7 @@ luz em ambientes de pouca luminosidade e poder acessar o histórico de detecçã
 gerado durante a execução do algoritmo de visão computacional.
 
 ## Tópicos
-Sistema autônomo;Sistema em tempo real; Aprendizado profundo;Redes Neurais Artificiais; Visão Computacional; Problema de Classificação; Segurança; Drone; Sistemas de Vigilância; Rastreamento por Som; Interfe Gráfica para o Usuário (GUI)
+Sistema autônomo;Sistema em tempo real; Aprendizado profundo;Redes Neurais Artificiais; Visão Computacional; Problema de Classificação; Segurança; Drone; Sistemas de Vigilância; Rastreamento por Som; Interfe Gráfica para o Usuário (GUI); Sistemas Embarcados
 
 ## Linguagens de programação
 Python e Linguagem C
